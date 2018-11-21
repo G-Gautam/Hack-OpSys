@@ -1,16 +1,16 @@
 {
   "buildFiles": [
-    "C:\\Western Softeng\\Desktop New\\HackTheNorth Projects\\Hack OpSys\\app\\CMakeLists.txt"
+    "C:\\Users\\ggupt\\OneDrive\\Desktop\\OpSys Project\\OpSys-Project\\app\\CMakeLists.txt"
   ],
   "cleanCommands": [
-    "C:\\Users\\wtfmi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Western Softeng\\Desktop New\\HackTheNorth Projects\\Hack OpSys\\app\\.externalNativeBuild\\cmake\\release\\x86\" --target clean"
+    "C:\\Users\\ggupt\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\ggupt\\OneDrive\\Desktop\\OpSys Project\\OpSys-Project\\app\\.externalNativeBuild\\cmake\\release\\x86\" --target clean"
   ],
   "libraries": {
     "native-lib-Release-x86": {
       "artifactName": "native-lib",
-      "buildCommand": "C:\\Users\\wtfmi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Western Softeng\\Desktop New\\HackTheNorth Projects\\Hack OpSys\\app\\.externalNativeBuild\\cmake\\release\\x86\" --target native-lib",
+      "buildCommand": "C:\\Users\\ggupt\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\ggupt\\OneDrive\\Desktop\\OpSys Project\\OpSys-Project\\app\\.externalNativeBuild\\cmake\\release\\x86\" --target native-lib",
       "abi": "x86",
-      "output": "C:\\Western Softeng\\Desktop New\\HackTheNorth Projects\\Hack OpSys\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so"
+      "output": "C:\\Users\\ggupt\\OneDrive\\Desktop\\OpSys Project\\OpSys-Project\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so"
     }
   }
 }
